@@ -88,14 +88,14 @@ class QuillToolbarFontFamilyButtonState
         context.quillSimpleToolbarConfigurations?.fontFamilyValues ??
             options.rawItemsMap ??
             {
-              'Sans Serif': 'serif',
-              'Serif': 'serif',
-              'Monospace': 'serif',
-              'Ibarra Real Nova': 'serif',
-              'SquarePeg': 'serif',
-              'Nunito': 'serif',
-              'Pacifico': 'serif',
-              'Roboto Mono': 'serif',
+              'Sans Serif': 'handwriting',
+              'Serif': 'handwriting',
+              'Monospace': 'handwriting',
+              'Ibarra Real Nova': 'handwriting',
+              'SquarePeg': 'handwriting',
+              'Nunito': 'handwriting',
+              'Pacifico': 'handwriting',
+              'Roboto Mono': 'handwriting',
               context.loc.clear: 'Clear'
             };
     return rawItemsMap;

@@ -88,10 +88,13 @@ flutter:
         - asset: assets/fonts/MonoSpace.ttf
     - family: serif
       fonts:
-        - asset: assets/fonts/handwritingFont1.ttf
+        - asset: assets/fonts/Serif.ttf
+    - family: handwriting
+      fonts:
+        - asset: assets/fonts/handwritingFont.ttf
     - family: sans-serif
       fonts:
-        - asset: assets/fonts/handwritingFont1.ttf
+        - asset: assets/fonts/SansSerif.ttf
     - family: ibarra-real-nova
       fonts:
           - asset: assets/fonts/IbarraRealNova-Regular.ttf
