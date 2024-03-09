@@ -232,8 +232,8 @@ final quillDefaultSample = [
   },
   {'insert': ' '},
   {
-    'attributes': {'font': 'serif'},
-    'insert': 'Serif'
+    'attributes': {'font': 'handwriting'},
+    'insert': 'handwriting'
   },
   {'insert': ' '},
   {
