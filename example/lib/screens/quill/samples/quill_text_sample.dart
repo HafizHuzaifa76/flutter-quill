@@ -218,11 +218,6 @@ const quillTextSample = [
     'attributes': {'font': 'monospace'},
     'insert': 'Monospace'
   },
-  {'insert': ' '},
-  {
-    'attributes': {'font': 'handwriting'},
-    'insert': 'Handwriting'
-  },
   {'insert': ' Size '},
   {
     'attributes': {'size': 'small'},

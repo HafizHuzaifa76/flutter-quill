@@ -89,9 +89,6 @@ flutter:
     - family: serif
       fonts:
         - asset: assets/fonts/Serif.ttf
-    - family: handwriting
-      fonts:
-        - asset: assets/fonts/handwritingFont.ttf
     - family: sans-serif
       fonts:
         - asset: assets/fonts/SansSerif.ttf
